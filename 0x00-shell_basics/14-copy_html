@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.thml ..
+cp *.html ..
